@@ -1,2 +1,2 @@
-# live-code-editor
-A Live Code Editor is an interactive development tool that allows users to write, edit, and run code in real time. As the code is modified, the output updates instantly, helping learners and developers test ideas quickly, debug efficiently, and understand concepts through instant visual feedback.
+# livecodeeditor
+Live code editor for HTML, CSS and JavaScript. Uses Ace for code syntax highlighting. Code can be predefined and edited in real-time as well as show the result.
